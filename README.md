@@ -54,6 +54,7 @@ Data-fetching using SSR and SSG
 
 ## 🌐 Live Demo
 You can check out the deployed app on Vercel.
+https://next-js-app-two-ebon.vercel.app/
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
