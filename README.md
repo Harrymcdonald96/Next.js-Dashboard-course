@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-![Next.js Admin Dashboard Screenshot](./assets/dashboard-screenshot.png)
+![Next.js Admin Dashboard Screenshot](assets/AdminDashboard.png)
 
 
 ## 📝 Next.js Admin Dashboard
