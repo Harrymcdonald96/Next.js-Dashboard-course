@@ -60,3 +60,15 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 # Next.jsApp
+
+
+## 🔐 Demo Login Credentials
+
+To access the live application:
+
+**URL:** [Live Demo](https://next-js-app-two-ebon.vercel.app)
+
+**Login Email:** `user@nextmail.com`  
+**Password:** `123456`
+
+> _Note: These credentials are from the default seed data provided by the course and are safe for demo/testing purposes only._
